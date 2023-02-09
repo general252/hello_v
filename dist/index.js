@@ -1,0 +1,1 @@
+(function(e,o){typeof exports=="object"&&typeof module<"u"?o(exports):typeof define=="function"&&define.amd?define(["exports"],o):(e=typeof globalThis<"u"?globalThis:e||self,o(e.hellox={}))})(this,function(e){"use strict";class o{test(){console.log("hello world")}}window.HelloV=o,e.HelloV=o,Object.defineProperty(e,Symbol.toStringTag,{value:"Module"})});

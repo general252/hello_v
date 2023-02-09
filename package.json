@@ -1,0 +1,28 @@
+{
+  "name": "hello_v",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.1.1",
+    "vite-plugin-dts": "^1.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/general252/hello_v.git"
+  }
+}
